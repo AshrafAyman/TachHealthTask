@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alrowad\\source\\repos\\TachyHealth\\TachyHealth\\TachyHealth.csproj": {}
+    "C:\\Users\\Alrowad\\Desktop\\Test2\\TachHealthTask\\TachyHealth\\TachyHealth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alrowad\\source\\repos\\TachyHealth\\TachyHealth\\TachyHealth.csproj": {
+    "C:\\Users\\Alrowad\\Desktop\\Test2\\TachHealthTask\\TachyHealth\\TachyHealth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alrowad\\source\\repos\\TachyHealth\\TachyHealth\\TachyHealth.csproj",
+        "projectUniqueName": "C:\\Users\\Alrowad\\Desktop\\Test2\\TachHealthTask\\TachyHealth\\TachyHealth.csproj",
         "projectName": "TachyHealth",
-        "projectPath": "C:\\Users\\Alrowad\\source\\repos\\TachyHealth\\TachyHealth\\TachyHealth.csproj",
+        "projectPath": "C:\\Users\\Alrowad\\Desktop\\Test2\\TachHealthTask\\TachyHealth\\TachyHealth.csproj",
         "packagesPath": "C:\\Users\\Alrowad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alrowad\\source\\repos\\TachyHealth\\TachyHealth\\obj\\",
+        "outputPath": "C:\\Users\\Alrowad\\Desktop\\Test2\\TachHealthTask\\TachyHealth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

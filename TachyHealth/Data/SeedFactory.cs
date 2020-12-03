@@ -31,7 +31,7 @@ namespace TachyHealth.Data
                 var user = await userManager.FindByEmailAsync(defaultUser.Email);
                 if (user == null)
                 {
-                    await userManager.CreateAsync(defaultUser, "Aa123456@");
+                    await userManager.CreateAsync(defaultUser, "Aa123456$");
                     await userManager.AddToRoleAsync(defaultUser, Enums.Roles.NormalUser.ToString());
                     await userManager.AddToRoleAsync(defaultUser, Enums.Roles.Admin.ToString());
                 }
@@ -54,7 +54,7 @@ namespace TachyHealth.Data
                 var user = await userManager.FindByEmailAsync(defaultUser.Email);
                 if (user == null)
                 {
-                    await userManager.CreateAsync(defaultUser, "Aa123456@");
+                    await userManager.CreateAsync(defaultUser, "Aa123456$");
                     await userManager.AddToRoleAsync(defaultUser, Enums.Roles.NormalUser.ToString());
                 }
 
